@@ -4,7 +4,7 @@
 - Jun. 27, 2022 ~ Present
 
 
-#### 1. Explainable machine learning in credit risk management
+#### 1. Explainable machine learning in credit risk management | [`bussmann2021.pdf`](http://text2fa.ir/wp-content/uploads/Text2fa.ir-Explainable-Machine-Learning-in-Credit.pdf)
 - `Xgboost` classification and its explanation with `Shapley` values using `MST`.
 - Keywords : XAI, XGBoost, SHAP, MST  
 
