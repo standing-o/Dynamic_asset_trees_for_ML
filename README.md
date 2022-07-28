@@ -8,6 +8,6 @@
 - `Xgboost` classification and its explanation with `Shapley` values using `MST`.
 - Keywords : XAI, XGBoost, SHAP, MST
 - My insights
-  - I think we can explain the anomaly detection algorithms of stock prices with the shapley value using MST   
+➔ I think we can explain the anomaly detection algorithms of stock prices with the shapley value using MST   
 
 | [Summary](https://github.com/standing-o/Dynamic_asset_trees_for_ML/issues/1) |
