@@ -7,4 +7,4 @@
 #### 1. Explainable machine learning in credit risk management
 - `Xgboost` classification and its explanation with `Shapley` values using `MST`.
 - Keywords : XAI, XGBoost, SHAP, MST  
-|[Summary](https://github.com/standing-o/Dynamic_asset_trees_for_ML/issues/1)|
+| [Summary](https://github.com/standing-o/Dynamic_asset_trees_for_ML/issues/1) |
